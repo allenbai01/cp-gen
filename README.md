@@ -10,7 +10,7 @@ Our algorithm `CP-Gen` (Conformal Prediction with General Function Classes) is a
   <img src="https://github.com/allenbai01/cp-gen/blob/main/figures/fig1_left.png" width="40%" hspace="5%">
   <img src="https://github.com/allenbai01/cp-gen/blob/main/figures/fig1_right.png" width="40%">
   <figcaption>
-    Illustration of our <tt>CP-Gen</tt> algorithm. While vanilla conformal prediction only learns a single parameter (within its conformalization step) by a simple thresholding rule over a coverage-efficiency curve (Left) , our CP-Gen is able to further improve the efficiency by thresholding a region formed by a larger function class (Right).
+    Illustration of our <tt>CP-Gen</tt> algorithm. While vanilla conformal prediction only learns a single parameter (within its conformalization step) by a simple thresholding rule over a coverage-efficiency curve (Left), <tt>CP-Gen</tt> is able to further improve the efficiency by thresholding a region formed by a larger function class (Right).
 </figcaption>
 </p>
 
