@@ -1,6 +1,6 @@
 # Conformal Prediction with General Function Classes
 
-This repository provides the implemnetation for the paper [Efficient and Differentiable Conformal Prediction with General Function Classes](https://arxiv.org/abs/2202.11091).
+This repository provides the implementation for the paper [Efficient and Differentiable Conformal Prediction with General Function Classes](https://arxiv.org/abs/2202.11091).
 
 ## Overview
 Our algorithm `CP-Gen` (Conformal Prediction with General Function Classes) is a generalization of conformal prediction to learning multiple parameters. `CP-Gen` can learn within an arbitrary family of prediction sets, by solving the constrained ERM problem of best efficiency subject to valid empirical coverage. Our code implements the recalibrated version `CP-Gen-Recal` to achieve valid finite-sample coverage.
@@ -50,7 +50,7 @@ Part of the code is built upon the following codebases:
 [conformal_classification](https://github.com/aangelopoulos/conformal_classification)\
 [Mujoco](https://github.com/deepmind/mujoco)
 
-If you use this code, consider citing our paper
+If you use this code in your research, please cite our paper
 ```
 @inproceedings{bai2022efficient,
   title={Efficient and Differentiable Conformal Prediction with General Function Classes},
