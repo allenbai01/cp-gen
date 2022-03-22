@@ -1,0 +1,11 @@
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
+git+https://github.com/modestyachts/ImageNetV2_pytorch
+tqdm
+numpy
+scipy
+pandas
+scikit-learn==0.19.2
+matplotlib
+wandb
