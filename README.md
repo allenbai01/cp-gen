@@ -28,6 +28,8 @@ chmod +x ./multi_output_run.sh
 ./multi_output_run.sh
 ```
 
+Note: To download the dataset for this task, use `git lfs clone` to clone this repository. See https://git-lfs.github.com/ for the installation guide of `git lfs`.
+
 ## Improved prediction intervals via conformal quantile finetuning
 
 ```
